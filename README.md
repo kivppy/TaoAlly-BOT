@@ -1,3 +1,7 @@
+<img width="1693" height="929" alt="a5bb1546-9bb2-40ee-a6dc-a0aa0885e29e" src="https://github.com/user-attachments/assets/b22bb2b5-9efc-41ad-9668-371658d59b81" />
+<img width="1506" height="952" alt="Captura de pantalla_20260721_184851" src="https://github.com/user-attachments/assets/72362a28-8bc5-4de3-b795-e70a94993d46" />
+<img width="1506" height="952" alt="Captura de pantalla_20260721_182932" src="https://github.com/user-attachments/assets/981f053a-eb8a-4c22-8e84-3071a8485259" />
+
 # TaoAlly 🤝
 
 Bot de Discord para gestionar **alianzas entre servidores**, con registro manual, detección automática de invitaciones y un sistema completo de **auto-alianza** validado por requisitos configurables.
